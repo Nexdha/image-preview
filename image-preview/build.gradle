@@ -59,10 +59,13 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.DeepakG27'
+                groupId = 'com.github.Nexdha'
                 artifactId = 'image-preview-compose'
-                version = '1.0'
+                version = '1.2'
             }
         }
     }
 }
+
+
+
